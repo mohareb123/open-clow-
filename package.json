@@ -1,0 +1,14 @@
+{
+  "name": "openclaw-bot",
+  "version": "1.0.0",
+  "description": "OpenClaw AI Telegram Bot — YT/Spotify/WebSearch/Browser/ImageGen",
+  "private": true,
+  "scripts": {
+    "start":   "bash run.sh",
+    "setup":   "bash setup.sh",
+    "install-openclaw": "npm install -g openclaw"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
